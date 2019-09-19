@@ -1,0 +1,9 @@
+#header {
+    background: url(header.jpg);
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vh;
+    object-fit: cover;
+}
